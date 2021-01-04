@@ -29,3 +29,5 @@ print(client)
 | 1_18_DataArray_Xarray_CMIP6 <br>**Note:** Sometimes, I got killworker msg. | CMIP6 – fs38 | Dask.dataArray vs. Xarray.dataArray with the same standard xarray operations. |
 | 1_19_Xarray_Gridded_Percipitation | CMIP6 – fs38 | Analysis of Gridded Ensemble Precipitation Estimates using CMIP6 model output. Extract a time series of annual maximum precipitation events over a region |
 | 1_20_ ocean model_analysis_visulisation | CMIP6 – oi10 – GFDL highresSST-future | Using Holoviews and Datashader to visualise data <br> **Known issue:** Datashader shows snapshot very slowly |
+
+Data used in these examples is licenced under the Creative Commons CC-BY4.0 licence (CHECK??) with citation information provided in the 'data' directory readme. The image used in the 'image' directory is sourced from ????? and used with permision (CHECK??)
